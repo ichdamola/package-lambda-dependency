@@ -35,7 +35,7 @@ This project sets up a Docker environment based on the official Amazon Linux ima
 **PS:** Ensure that you have Docker installed and configured on your system before running the provided scripts.
 
 **Output:**
-![alt text](<Screenshot 2024-04-27 at 21.38.28.png>)
+![alt text](<output_screenshot.png>)
 
 
 
